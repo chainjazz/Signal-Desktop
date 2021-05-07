@@ -105,7 +105,7 @@
     "testcheck": "1.0.0-rc.2",
     "tmp": "0.0.33",
     "to-arraybuffer": "1.0.1",
-    "underscore": "1.9.0",
+    "underscore": "1.12.1",
     "uuid": "3.3.2",
     "websocket": "1.0.28"
   },
